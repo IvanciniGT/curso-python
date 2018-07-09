@@ -1,2 +1,2 @@
 # curso-python
-Ejemplos de código python 2
+Ejemplos de código python Kiwitec
