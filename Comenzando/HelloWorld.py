@@ -1,3 +1,4 @@
+# Este es el primer programa
 print("hola mundo")
 mivariable = 2
 mivariabletexto = "hola mundo"
