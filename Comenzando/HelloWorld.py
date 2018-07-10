@@ -1,5 +1,8 @@
 # Este es el primer programa
 print("hola mundo")
+
+
+
 mivariable = 2
 mivariabletexto = "hola mundo"
 mivariablelogica = True
@@ -36,10 +39,7 @@ def maximo(a,b):
         return b
 
 def maximoDe3(a,b,c):
-    if a > b and (a>c):
-        return a
-    else:
-        return maximo(b,c)
+    return maximo(a,maximo(b,c))
 
 print(maximo(10,11))
 print(maximo(20,30))
