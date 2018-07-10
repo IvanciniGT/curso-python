@@ -1,9 +1,14 @@
 
+#Uso de la funcion input
 
-mivariable = 2
-mivariabletexto = "hola mundo"
-mivariablelogica = True
+#introduce por pantalla el nombre de tu padre y guardalo en una variable.
+print("introduce nombre de tu padre")
+nombre = input()
 
-edad=eval(input("Dame tu edad"))
+#introduce por pantalla la edad de tu padre y guardalo en una variable.
+print("introduce edad de tu padre")
+edad = input()
 
-print(edad)
+
+#imprime/saca por pantalla el nombre y la edad de tu padre. Añade \n para imprimirlo en dos lineas
+print("El nombre de tu padre es: " + nombre+ "\n" + "la edad de tu padre es: " + edad)
