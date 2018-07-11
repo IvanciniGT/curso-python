@@ -71,7 +71,3 @@ def ImprimirXlista (lista):
 ImprimirXlista([2, 3, 5, 7, 11, 13])
 
 
-
-
-
-
