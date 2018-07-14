@@ -23,13 +23,6 @@ elif (A==B):
 else:
     print(B)
 
-if( A > B):
-    print (A)
-if (A == B):
-     print("Son iguales")
-if (A < B):
-    print(B)
-
 
 
 def maximo(a,b):
